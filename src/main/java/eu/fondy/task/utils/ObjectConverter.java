@@ -5,7 +5,8 @@ import eu.fondy.task.entity.ChangeResult;
 
 public class ObjectConverter {
 
-    private ObjectConverter(){}
+    private ObjectConverter() {
+    }
 
 
     public static ChangeResponseDto toDto(ChangeResult changeResult) {

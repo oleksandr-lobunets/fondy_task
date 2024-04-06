@@ -14,9 +14,3 @@ spring:
     username: test
     password: test
 
-#    default-schema: change
-
-#    enabled: true
-#    baselineOnMigrate: true
-#    validateOnMigrate: true
-#    locations: classpath:db/migration
